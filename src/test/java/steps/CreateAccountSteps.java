@@ -1,8 +1,8 @@
 package steps;
 
+import amazonPages.CreateAccountPage;
 import net.serenitybdd.core.Serenity;
 import net.thucydides.core.annotations.Step;
-import pages.CreateAccountPage;
 
 public class CreateAccountSteps {
 

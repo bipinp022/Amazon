@@ -6,7 +6,8 @@ import net.thucydides.core.annotations.Step;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import pages.LoginPage;
+
+import amazonPages.LoginPage;
 
 public class LoginSteps {
 

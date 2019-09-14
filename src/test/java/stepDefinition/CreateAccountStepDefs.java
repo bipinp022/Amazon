@@ -1,11 +1,12 @@
 package stepDefinition;
 
 import com.google.common.collect.Maps;
+
+import amazonPages.CreateAccountPage;
 import cucumber.api.DataTable;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import net.thucydides.core.annotations.Steps;
-import pages.CreateAccountPage;
 import steps.CreateAccountSteps;
 
 import java.util.Map;
