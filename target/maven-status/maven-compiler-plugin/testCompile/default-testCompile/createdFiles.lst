@@ -1,5 +1,0 @@
-steps\CreateAccountSteps.class
-steps\LoginSteps.class
-runner\CucumberTestSuite.class
-stepDefinition\CreateAccountStepDefs.class
-stepDefinition\LoginStepDefs.class
