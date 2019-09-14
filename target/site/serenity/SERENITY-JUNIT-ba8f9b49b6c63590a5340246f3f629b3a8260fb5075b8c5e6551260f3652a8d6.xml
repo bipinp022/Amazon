@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="amazon - Login" skipped="0" tests="1" time="797.09" timestamp="2019-08-30 04:58:45"><testcase name="TC_002 To verify the positive login functionality"><failure message="Expected enabled element was not enabled&#10;Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'&#10;System info: host: 'L106692', ip: '10.20.80.33', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'&#10;Driver info: driver.version: unknown" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'L106692', ip: '10.20.80.33', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: driver.version: unknown</failure><system-err>Expected enabled element was not enabled
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'L106692', ip: '10.20.80.33', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: driver.version: unknown&#13;
+pages.LoginPage.clickLogin(LoginPage.java:91)&#13;
+steps.LoginSteps.clickLoginStep(LoginSteps.java:39)&#13;
+stepDefinition.LoginStepDefs.login(LoginStepDefs.java:38)&#13;
+✽.Click Login(src/test/resources/features/TC_02_AmazonLogin.feature:12)&#13;
+</system-err></testcase></testsuite>

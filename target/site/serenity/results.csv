@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"amazon - Create Account","TC_001 To verify the positive create account functionality","SUCCESS","2019-08-30T16:56:07.625+01:00[Europe/London]","0.0","158.37"
+"amazon - Login","TC_002 To verify the positive login functionality","FAILURE","2019-08-30T16:58:45.999+01:00[Europe/London]","0.0","797.09"
